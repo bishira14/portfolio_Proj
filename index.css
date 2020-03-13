@@ -58,7 +58,7 @@ body{
   padding:5px;
 }
 .first_2{
-  height:57vh;
+  min-height:57vh;
   width:45vw;
   background-color: white;
   margin-left:2%;
@@ -111,6 +111,7 @@ body{
   width:250px;
   background-color: white;
   border-radius:7px;
+  margin-bottom: 10px;
 }
 .fa-file-code{
   font-size: 2rem;
