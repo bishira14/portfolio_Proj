@@ -12,6 +12,7 @@ body{
   font-family: sans-serif;
   color:rgb(77, 77, 77);
   line-height: 1.5;
+  background-image: linear-gradient(to bottom right, rgb(0, 153, 255), lightblue);
 }
 .first{
   height:60vh;
@@ -91,7 +92,7 @@ body{
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: rgba(128, 128, 128, 0.1);
-
+  overflow: scroll;
 }
 .what_im_ h4{
   padding:20px;
