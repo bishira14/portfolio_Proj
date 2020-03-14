@@ -32,6 +32,7 @@ body{
   margin-bottom: 10px;
   text-align:center;
   padding:10px 0 10px 0;
+  overflow: scroll;
 }
 .myAvatar{
   height:80px;
@@ -66,6 +67,7 @@ body{
   margin-left:2%;
   border-radius:15px;
   margin-bottom: 10px;
+  overflow: scroll;
 }
 .nav{
   padding:20px;
