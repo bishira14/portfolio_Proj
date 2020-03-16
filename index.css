@@ -59,6 +59,10 @@ body{
   list-style-type: none;
   font-size:10px;
   padding:5px;
+  color:rgb(77, 77, 77);
+}
+.info a{
+   text-decoration: none;
 }
 .first_2{
   min-height:57vh;
