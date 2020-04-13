@@ -32,7 +32,6 @@ body{
   margin-bottom: 10px;
   text-align:center;
   padding:10px 0 10px 0;
-  overflow: scroll;
 }
 .myAvatar{
   height:80px;
@@ -71,7 +70,6 @@ body{
   margin-left:2%;
   border-radius:15px;
   margin-bottom: 10px;
-  overflow: scroll;
 }
 .nav{
   padding:20px;
@@ -100,7 +98,6 @@ body{
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: rgba(128, 128, 128, 0.1);
-  overflow: scroll;
 }
 .what_im_ h4{
   padding:20px;

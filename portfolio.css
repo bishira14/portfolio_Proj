@@ -32,7 +32,6 @@ body{
   margin-bottom: 10px;
   text-align:center;
   padding:10px 0 10px 0;
-  overflow: scroll;
 }
 .myAvatar{
   height:80px;
@@ -71,7 +70,6 @@ body{
   margin-left:2%;
   border-radius:15px;
   margin-bottom: 10px;
-  overflow: scroll;
 }
 .nav{
   padding:20px;
@@ -96,7 +94,6 @@ body{
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: rgba(128, 128, 128, 0.1);
-  overflow: scroll;
 }
 .what_im_ ul{
 padding:10px 10px 0px 20px;
@@ -139,7 +136,7 @@ padding:10px 10px 0px 20px;
  cursor:pointer;
  color:rgb(77, 77, 77);
 }
-.project_1 p:hover, .project_2 p:hover, .project_2 p:hover{
+.project_1 p:hover, .project_2 p:hover, .project_3 p:hover{
  font-size: 0.8rem;
  color:blue;
 }
